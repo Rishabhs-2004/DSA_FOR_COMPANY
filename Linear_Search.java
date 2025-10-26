@@ -15,7 +15,7 @@ public static int LineraSearch(int num[], int key){
         int key = 6;
 
         int index = LineraSearch(num,key);
-            if(index == -1){
+            if(index == -1){ 
                 System.out.println("No is not found");
             }else{
                 System.out.println("It is key index : " +index);

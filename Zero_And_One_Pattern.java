@@ -15,6 +15,6 @@ public static void ZeroAndOnePattern(int n){
 
 
     public static void main(String[] args) {
-     ZeroAndOnePattern(5);   
+     ZeroAndOnePattern(6);   
     }
 }
